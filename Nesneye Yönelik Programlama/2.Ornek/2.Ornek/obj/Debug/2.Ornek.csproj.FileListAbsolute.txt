@@ -1,0 +1,10 @@
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\bin\Debug\2.Ornek.exe.config
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\bin\Debug\2.Ornek.exe
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\bin\Debug\2.Ornek.pdb
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\obj\Debug\2.Ornek.csprojAssemblyReference.cache
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\obj\Debug\_2.Ornek.Form1.resources
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\obj\Debug\_2.Ornek.Properties.Resources.resources
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\obj\Debug\2.Ornek.csproj.GenerateResource.cache
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\obj\Debug\2.Ornek.csproj.CoreCompileInputs.cache
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\obj\Debug\2.Ornek.exe
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\2.Ornek\2.Ornek\obj\Debug\2.Ornek.pdb

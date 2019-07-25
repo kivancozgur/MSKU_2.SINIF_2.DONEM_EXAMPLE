@@ -1,0 +1,5 @@
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\WindowsFormsApp1\Ev\bin\Debug\Ev.dll
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\WindowsFormsApp1\Ev\bin\Debug\Ev.pdb
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\WindowsFormsApp1\Ev\obj\Debug\Ev.csproj.CoreCompileInputs.cache
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\WindowsFormsApp1\Ev\obj\Debug\Ev.dll
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\WindowsFormsApp1\Ev\obj\Debug\Ev.pdb

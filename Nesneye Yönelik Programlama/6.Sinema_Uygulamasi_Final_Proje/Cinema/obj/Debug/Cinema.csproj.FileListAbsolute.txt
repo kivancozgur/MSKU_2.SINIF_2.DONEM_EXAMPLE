@@ -1,0 +1,77 @@
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\bin\Debug\MaterialDesignColors.dll
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\bin\Debug\MaterialSkin.dll
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\obj\Debug\Cinema.GirisForm.resources
+C:\Users\asus.LAPTOP-SMDU8F43\Desktop\Cinema\Cinema\obj\Debug\Cinema.SinemaForm.resources
+D:\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\Cinema\Cinema\bin\Debug\Cinema.exe
+D:\Cinema\Cinema\bin\Debug\MaterialDesignColors.dll
+D:\Cinema\Cinema\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Cinema\Cinema\bin\Debug\MaterialSkin.dll
+D:\Cinema\Cinema\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Cinema\Cinema\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\Cinema\Cinema\obj\Debug\Cinema.GirisForm.resources
+D:\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\Cinema\Cinema\obj\Debug\Cinema.SinemaForm.resources
+D:\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+D:\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+D:\Cinema\Cinema\obj\Debug\Cinema.exe
+D:\Cinema\Cinema\obj\Debug\Cinema.pdb
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\Cinema.exe
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\MaterialDesignColors.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\MaterialSkin.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.GirisForm.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.SinemaForm.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.exe
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.pdb
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\obj\Debug\Cinema.BiletAlFormu.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\MySql.Data.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\Google.Protobuf.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\BouncyCastle.Crypto.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Cinema\Cinema\bin\Debug\MySql.Data.xml
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\Cinema.exe.config
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\Cinema.exe
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\Cinema.pdb
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\MaterialDesignColors.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\MaterialSkin.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\MySql.Data.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\Google.Protobuf.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\BouncyCastle.Crypto.dll
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\bin\Debug\MySql.Data.xml
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.BiletAlFormu.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.GirisForm.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.SinemaForm.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.exe
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\6.Sinema_Uygulamasi_Final_Proje\Cinema\obj\Debug\Cinema.pdb

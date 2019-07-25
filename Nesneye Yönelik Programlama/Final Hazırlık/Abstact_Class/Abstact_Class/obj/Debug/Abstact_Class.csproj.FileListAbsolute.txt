@@ -1,0 +1,10 @@
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\obj\Debug\Abstact_Class.csprojAssemblyReference.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\obj\Debug\Abstact_Class.Form1.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\obj\Debug\Abstact_Class.Properties.Resources.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\obj\Debug\Abstact_Class.csproj.GenerateResource.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\obj\Debug\Abstact_Class.csproj.CoreCompileInputs.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\bin\Debug\Abstact_Class.exe.config
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\bin\Debug\Abstact_Class.exe
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\bin\Debug\Abstact_Class.pdb
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\obj\Debug\Abstact_Class.exe
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Final Hazırlık\Abstact_Class\Abstact_Class\obj\Debug\Abstact_Class.pdb

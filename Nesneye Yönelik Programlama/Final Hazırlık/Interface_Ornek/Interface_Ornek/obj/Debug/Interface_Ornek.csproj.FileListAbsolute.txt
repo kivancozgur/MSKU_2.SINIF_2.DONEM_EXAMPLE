@@ -1,0 +1,10 @@
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\bin\Debug\Interface_Ornek.exe.config
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\bin\Debug\Interface_Ornek.exe
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\bin\Debug\Interface_Ornek.pdb
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\obj\Debug\Interface_Ornek.csprojAssemblyReference.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\obj\Debug\Interface_Ornek.Form1.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\obj\Debug\Interface_Ornek.Properties.Resources.resources
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\obj\Debug\Interface_Ornek.csproj.GenerateResource.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\obj\Debug\Interface_Ornek.csproj.CoreCompileInputs.cache
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\obj\Debug\Interface_Ornek.exe
+D:\MSKU 2.Sınıf 2.Dönem\Nesneye Yönelik Programlama\Interface_Ornek\Interface_Ornek\obj\Debug\Interface_Ornek.pdb
